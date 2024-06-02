@@ -1,0 +1,47 @@
+body{
+    background-image:url("station.jpg");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+    height:100vh;
+}
+
+.divb{
+    border: 3px solid orange;
+    padding:10px;
+    margin: 20px 25%;
+    max-width: 80%;
+    box-shadow:5px 10px 6px  #ECB176;
+}
+h1 {
+    margin: 10px 0px;
+    color:antiquewhite;
+}
+h2{
+    font-size: 50px;
+    margin-bottom: 20px;
+    color:rgb(186, 134, 235);
+}
+
+button{
+    border: 1px solid black;
+    padding: 10px 0px;
+    color: #fff;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#incre-btn{
+    background-color: rgb(206, 136, 52);
+}
+
+#save-btn{
+    background-color: rgb(76, 75, 128);
+}
+
+
+#save-el{
+    color: whitesmoke
+}
